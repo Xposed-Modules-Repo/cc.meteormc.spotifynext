@@ -1,1 +1,1 @@
-# cc.meteormc.spotifynext
+# SpotifyNext
