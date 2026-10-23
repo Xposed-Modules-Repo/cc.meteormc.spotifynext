@@ -6,7 +6,7 @@
 [![Release Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/cc.meteormc.spotifynext/total?color=orange)](https://github.com/Xposed-Modules-Repo/cc.meteormc.spotifynext/releases)
 [![Telegram](https://img.shields.io/badge/Join-Telegram-blue.svg?logo=telegram)](https://t.me/+uECDhJ01E1ExZjFh)
 
-[English](README.md) | [简体中文](README_zh.md)
+English | [简体中文](https://github.com/Xposed-Modules-Repo/cc.meteormc.spotifynext/blob/main/README_zh.md)
 </div>
 
 ---
