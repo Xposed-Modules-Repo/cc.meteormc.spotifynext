@@ -67,13 +67,15 @@
 > 本模块严格按照客户端规范写回数据流，如果您使用了其他不符合规范或未从正确客户端接口获取歌词的模块和插件，出现功能失效的问题，与本模块无关
 >
 > 目前支持配置以下歌词源
-> 1. 网易云音乐
+> 1. [Better Lyrics](https://betterlyrics.org/)
+> 2. [lrc.red](https://lrc.red/)
+> 3. [网易云音乐](https://www.npmjs.com/package/NeteaseCloudMusicApi)
 </details>
 
 <details>
-  <summary><strong>移除 Premium 按钮</strong></summary>
+  <summary><strong>云控编辑器</strong></summary>
   <br/>
-　移除底部导航栏中的 Premium 界面入口。该功能只隐藏客户端界面中的按钮，不会改变账号类型、订阅状态或 Premium 权益。
+　允许自由编辑客户端的远程配置（需自行探索，不提供任何技术支持）。且该功能不会改变账号类型、订阅状态或 Premium 权益
 </details>
 
 <details>
