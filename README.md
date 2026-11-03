@@ -67,13 +67,15 @@ English | [简体中文](https://github.com/Xposed-Modules-Repo/cc.meteormc.spot
 > This module writes data back strictly according to the client's expected format. If you use other modules or plugins that do not follow the expected format or do not obtain lyrics through the correct client interface, any resulting malfunction is unrelated to this module.
 >
 > The following lyrics source is currently supported:
-> 1. NetEase Cloud Music
+> 1. [Better Lyrics](https://betterlyrics.org/)
+> 2. [lrc.red](https://lrc.red/)
+> 3. [Netease Cloud Music](https://www.npmjs.com/package/NeteaseCloudMusicApi)
 </details>
 
 <details>
-  <summary><strong>Remove Premium Button</strong></summary>
+  <summary><strong>Remote Config Editor</strong></summary>
   <br/>
-　Removes the Premium entry from the bottom navigation bar. This only hides the button in the client interface; it does not change your account type, subscription status, or Premium benefits.
+　Allows free editing of the remote config (self-exploration required; no technical support provided). This feature does not change your account type, subscription status, or Premium benefits.
 </details>
 
 <details>
